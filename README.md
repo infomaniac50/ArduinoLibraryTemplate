@@ -1,7 +1,7 @@
 ## Arduino Library Template ##
 Derek Chafin <infomaniac50@gmail.com>  
 Blog: https://www.coding-squared.com/blog/  
-Github: @infomaniac50  
+Github: [@infomaniac50](https://github.com/infomaniac50/)  
 [License: MIT](LICENSE.md)  
 
 A template that makes writing an Arduino library a breeze. Use this template to create new libraries from scratch quickly and easily.
