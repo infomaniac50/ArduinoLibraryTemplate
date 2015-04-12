@@ -6,6 +6,6 @@ ArduinoLibraryTemplate::ArduinoLibraryTemplate() {
 
 }
 
-ArduinoLibraryTemplate::printHelloWorld() {
-  SERIAL_PORT_MONITOR.println("Hello World!");
+void ArduinoLibraryTemplate::printHelloWorld() {
+  SERIAL_PORT_MONITOR.println(HELLO_WORLD_STRING);
 }
